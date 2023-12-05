@@ -1,0 +1,1 @@
+Открыть в Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dG7w1Bt_8_cdMguKHr9MrZYI309fOoc-)
